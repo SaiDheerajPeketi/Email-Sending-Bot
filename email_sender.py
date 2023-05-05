@@ -13,7 +13,7 @@ email_receiver = "cocninjasana@gmail.com"
 # message['Subject'] = 'Foobar'
 # message['From'] = email_sender
 # message['To'] = email_receiver
-content = MIMEText('Some message content', 'plain')
+#content = MIMEText('Some message content', 'plain')
 # message.attach(content)
 
 # mail = smtplib.SMTP('smtp.gmail.com',587)
